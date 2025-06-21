@@ -1,0 +1,1 @@
+# Minimal-Student-Management-System
